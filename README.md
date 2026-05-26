@@ -6,16 +6,14 @@ maven: https://maven.apache.org/download.cgi
 jdk25: https://www.oracle.com/java/technologies/downloads/
 
 **How to run?**
+<br>  <sub>PS: Requires Maven & Atleast Java jdk25</sub>
 <br> 
 Linux User: ```./run```
 <br>
 Windows User: 
-<br>  <sub>PS: Requires Maven & Atleast Java jdk25</sub>
 1. Open Terminal
 2. Type: ``mvn clean compile exec:java``
-<br> 
-<br> 
-
+<br>
 #### **Here's lists of all threats:**
 <br>
 
