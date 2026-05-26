@@ -15,7 +15,7 @@ Windows User: <sub>PS: Requires Maven & Atleast Java jdk25</sub>
 <br> 
 <br> 
 
-#### **Here's what are listed here:**
+#### **Here's lists of all threats:**
 <br>
 
 **Groups: (32)**
