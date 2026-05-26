@@ -12,10 +12,10 @@
 3. Checks the player have badge from one of the ``Operational Games`` & ``Opponents Lobby``
 <br> 
 
-4. [X][Working] Checks if the player active friend is playing one of the ``Operational Games``.
+[Soon] 4. Checks if the player active friend is playing one of the ``Operational Games``.
 <br> 
 
-5. [X][Working] Checks if the player have played one of the ``Operational Games`` over the last 7 days.
+[Soon] 5. Checks if the player have played one of the ``Operational Games`` over the last 7 days.
 <br>
 
 **Resources & Dependencies**
