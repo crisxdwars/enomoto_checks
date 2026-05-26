@@ -16,7 +16,7 @@ Type: ```./run```
 
 **Groups: (32)**
 <br>
-山王ー団体 Sanno-Dantai - https://www.roblox.com/communities/993480141/山王ー団体-Sanno-Dantai#!/
+山王ー団体 Sanno-Dantai - https://www.roblox.com/communities/993480141/
 <br>
 横浜 | Yokohama# - https://www.roblox.com/communities/101878725/横浜-|-Yokohama#!/
 <br>
@@ -74,7 +74,7 @@ Sayakawa Dynasty - https://www.roblox.com/communities/1093181522/Sayakawa-Dynast
 <br>
 茂樹家 | Shigeki-ka - https://www.roblox.com/communities/35844149/茂樹家-|-Shigeki-ka#!/
 <br>
-平山 | Hirayama Dynasty - https://www.roblox.com/communities/35612673/平山-|-Hirayama Dynasty#!/
+平山 | Hirayama Dynasty - https://www.roblox.com/communities/35612673/平山-|-Hirayama-Dynasty#!/
 <br>
 西山一花 | Nishiyama-Ikka funding group - https://www.roblox.com/communities/35954100/西山一花-|-Nishiyama-Ikka funding group#!/
 <br>
