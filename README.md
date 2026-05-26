@@ -1,4 +1,12 @@
-## Enomoto Recruit Checks
+# Enomoto Recruit Checks
+
+**Features**
+<sub>1. Checks if the player is in the listed threats (Groups)</sub>
+<sub>2. Checks if the player friend is in the listed threats ``Groups`` (scans up to 90 friends for now.)</sub>
+<sub>3. Checks the player have badge from one of the ``Operational Games`` & ``Opponents Lobby``</sub>
+<sub>4. [X][Working] Checks if the player active friend is playing one of the ``Operational Games``.</sub>
+<sub>5. [X][Working] Checks if the player have played one of the ``Operational Games`` over the last 7 days.</sub>
+
 **Resources & Dependencies**
 <br>
 maven: https://maven.apache.org/download.cgi
