@@ -15,7 +15,7 @@
 * [Soon] Checks if the player active friend is playing one of the Operational Games.
 <br> 
 
-* [Soon] Checks if the player have played one of the Operational Games over the last 7 days.
+* [Soon] Checks if the player have played one of the Operational Games over the past 7 days.
 <br>
 <br>
 
