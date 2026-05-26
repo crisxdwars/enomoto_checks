@@ -3,19 +3,20 @@
 **Features**
 <br> 
 
-<sub>1. Checks if the player is in the listed threats (Groups)</sub>
+1. Checks if the player is in the listed threats (Groups)
 <br> 
 
-<sub>2. Checks if the player friend is in the listed threats ``Groups`` (scans up to 90 friends for now.)</sub>
+2. Checks if the player friend is in the listed threats ``Groups`` (scans up to 90 friends for now.)
 <br> 
 
-<sub>3. Checks the player have badge from one of the ``Operational Games`` & ``Opponents Lobby``</sub>
+3. Checks the player have badge from one of the ``Operational Games`` & ``Opponents Lobby``
 <br> 
 
-<sub>4. [X][Working] Checks if the player active friend is playing one of the ``Operational Games``.</sub>
+4. [X][Working] Checks if the player active friend is playing one of the ``Operational Games``.
 <br> 
 
-<sub>5. [X][Working] Checks if the player have played one of the ``Operational Games`` over the last 7 days.</sub>
+5. [X][Working] Checks if the player have played one of the ``Operational Games`` over the last 7 days.
+<br>
 
 **Resources & Dependencies**
 <br>
