@@ -247,7 +247,7 @@ public class Main extends ListenerAdapter {
                 embed.addField("Description", "```\n" + description + "\n```", false);
             }
 
-            embed.setFooter("EnomotoSec Batch Link Matrix • " + DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss 'UTC'").withZone(ZoneOffset.UTC).format(Instant.now()));
+            embed.setFooter("EnomotoSec • " + DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss 'UTC'").withZone(ZoneOffset.UTC).format(Instant.now()));
 
             event.getChannel().sendMessageEmbeds(embed.build()).queue();
 
