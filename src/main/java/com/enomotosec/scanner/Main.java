@@ -25,7 +25,7 @@ import java.util.Map;
 
 public class Main extends ListenerAdapter {
 
-    private static final String DISCORD_BOT_TOKEN = "//YOUR_DISCORD_BOT_TOKEN_HERE";
+    private static final String DISCORD_BOT_TOKEN = "";
     private static final String PREFIX = "!scan ";
     private static final Map<String, String> ENEMY_GROUPS = new HashMap<>();
     private static final Map<String, String> BLACKLISTED_FRIENDS = new HashMap<>();
@@ -92,7 +92,7 @@ public class Main extends ListenerAdapter {
         String userId = messageContent.substring(PREFIX.length()).trim();
 
         if (!userId.matches("\\d+")) {
-            event.getChannel().sendMessage("[X][EnomotoSec Error]: Invalid numerical ID format.").queue();
+            event.getChannel().sendMessage("[X][Error]: Invalid userID.").queue();
             return;
         }
 
@@ -104,7 +104,7 @@ public class Main extends ListenerAdapter {
             HttpResponse<String> userResponse = httpClient.send(userRequest, HttpResponse.BodyHandlers.ofString());
 
             if (userResponse.statusCode() != 200) {
-                event.getChannel().sendMessage("[X][EnomotoSec Error]: User ID not found on Roblox.").queue();
+                event.getChannel().sendMessage("[X][Error]: User ID not found on Roblox.").queue();
                 return;
             }
 
@@ -236,7 +236,7 @@ public class Main extends ListenerAdapter {
                 .setTitle(statusTitle + " : " + displayName)
                 .setColor(embedColor)
                 .addField("Identity", "User: `" + username + "`\nID: `" + userId + "`", true)
-                .addField("Account Age", "Joined: " + formattedJoinDate, true)
+                .addField("Account Age", "Joined: " + "`" + formattedJoinDate + "`", true)
                 .addField("Direct Profile Dossier", intelligenceReport.length() == 0 ? "No anomalies." : intelligenceReport.toString(), false);
 
             if (connectionAlerts.length() > 0) {
@@ -254,7 +254,7 @@ public class Main extends ListenerAdapter {
         } catch (Exception e) {
             System.err.println("Execution Error: " + e.getMessage());
             e.printStackTrace();
-            event.getChannel().sendMessage("[!] [EnomotoSec Error]: Processing failure during network loop analysis.").queue();
+            event.getChannel().sendMessage("[!] [Error]: Processing failure during network loop analysis.").queue();
         }
     }
 }
