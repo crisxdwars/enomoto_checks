@@ -55,6 +55,15 @@ public class Main extends ListenerAdapter {
         ENEMY_GROUPS.put("317819165", "葉桜一家 | Hazakura-ikka");
         ENEMY_GROUPS.put("165751106", "Katagiri-ikka");
         ENEMY_GROUPS.put("78749178", "Kanagawa-ikka 神奈川一家");
+        ENEMY_GROUPS.put("35783006", "西山 | Nishiyama-Ikka");
+        ENEMY_GROUPS.put("813600163", "Hoshiguma Family | 星熊");
+        ENEMY_GROUPS.put("1093181522", "Sayakawa Dynasty");
+        ENEMY_GROUPS.put("35835805", "山岸家 | Yamagishi- Ka");
+        ENEMY_GROUPS.put("35928243", "小野寺家 | Onodera-Ka");
+        ENEMY_GROUPS.put("35844149", "茂樹家 | Shigeki-ka");
+        ENEMY_GROUPS.put("35612673", "平山 | Hirayama Dynasty");
+        ENEMY_GROUPS.put("35954100", "西山一花 | Nishiyama-Ikka funding group");
+        ENEMY_GROUPS.put("53353863", "Shinryu Fight Club | 真龍格闘クラブ");
         BLACKLISTED_FRIENDS.put("191531795", "MrSekiuchi");
         TRACKED_BADGES.put("1", "BadgeNameExample");
         ENEMY_GROUPS.put("250364003", "Miyazaki Kasumi - kai 《霞 - 甲斐》");
