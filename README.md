@@ -7,7 +7,7 @@ jdk25: https://www.oracle.com/java/technologies/downloads/
 
 **How to run?**
 <br> 
-Type: ```./run```
+Linux User: ```./run```
 <br> 
 <br> 
 
