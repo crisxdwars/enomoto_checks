@@ -35,7 +35,7 @@ Windows User:
 2. Type: ``mvn clean compile exec:java``
 <br>
 
-#### **Here's lists of all threats:**
+#### **Here's the lists of all possible threats:**
 <br>
 
 **Groups: (32)**
