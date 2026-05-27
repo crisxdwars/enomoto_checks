@@ -1,6 +1,6 @@
 # Enomoto Recruit Checks
 
-### Features
+## Features
 <br> 
 
 <sub>Checks if the player is in the listed threats (Groups)</sub>
@@ -15,13 +15,13 @@
 <br>
 <br>
 
-**Resources & Dependencies**
+## Resources & Dependencies
 <br>
 maven: https://maven.apache.org/download.cgi
 <br>
 jdk25: https://www.oracle.com/java/technologies/downloads/
 
-**How to run?**
+## How to run?
 <br>  <sub>PS: Requires Maven & Atleast Java jdk25</sub>
 <br> 
 Linux User: ```./run```
@@ -31,7 +31,7 @@ Windows User:
 2. Type: ``mvn clean compile exec:java``
 <br>
 
-### **Here's the lists of all possible threats:**
+## Here's the lists of all possible threats:
 <br>
 
 **Groups: (32)**
