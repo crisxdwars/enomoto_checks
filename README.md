@@ -101,7 +101,7 @@ Windows User:
 <sub>Shinryu Fight Club | 真龍格闘クラブ - https://www.roblox.com/communities/53353863/Shinryu-Fight-Club-|-真龍格闘クラブ#!/</sub>
 <br>
 
-**Operational Games (5)**
+**Operational Games: (5)**
 <br>
 <sub>[Remastered V1] San Junipero State Prison - https://www.roblox.com/games/15198987828/[Remastered-V1]-San-Junipero-State-Prison</sub><br>
 <sub>Shinjuku, 2006 - https://www.roblox.com/games/3039388345/Shinjuku,-2006</sub>
