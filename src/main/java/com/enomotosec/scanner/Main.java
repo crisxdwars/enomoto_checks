@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.Map;
 
 public class Main extends ListenerAdapter {
-    private static final String DISCORD_BOT_TOKEN = "DSCORD_BOT_TOKEN_HERE";
+    private static final String DISCORD_BOT_TOKEN = "";
     private static final String PREFIX = "!scan ";
     private static final Map<String, String> ENEMY_GROUPS = new HashMap<>();
     private static final Map<String, String> BLACKLISTED_FRIENDS = new HashMap<>();
