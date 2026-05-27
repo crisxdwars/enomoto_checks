@@ -107,7 +107,7 @@ Windows User:
 
 **Operational Games**
 <br>
-<sub>[Remastered V1] San Junipero State Prison - https://www.roblox.com/games/15198987828/[Remastered V1]-San-Junipero-State-Prison</sub>
+<sub>[Remastered V1] San Junipero State Prison - https://www.roblox.com/games/15198987828/[Remastered-V1]-San-Junipero-State-Prison</sub>
 
 <br>
 <sub>Shinjuku, 2006 - https://www.roblox.com/games/3039388345/Shinjuku,-2006</sub>
