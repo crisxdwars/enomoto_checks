@@ -108,16 +108,12 @@ Windows User:
 **Operational Games**
 <br>
 <sub>[Remastered V1] San Junipero State Prison - https://www.roblox.com/games/15198987828/[Remastered-V1]-San-Junipero-State-Prison</sub>
-
 <br>
 <sub>Shinjuku, 2006 - https://www.roblox.com/games/3039388345/Shinjuku,-2006</sub>
-
 <br>
 <sub>Dragon Engine Hub - https://www.roblox.com/games/119438859200539/Dragon-Engine-Hub</sub>
-
 <br>
 <sub>Clark County - https://www.roblox.com/games/16541340872/Clark-County</sub>
-
 <br>
 <sub>Oakdale Federal Penitentiary - https://www.roblox.com/games/9567991607/Oakdale-Federal-Penitentiary</sub>
 
